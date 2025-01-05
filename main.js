@@ -1,0 +1,1 @@
+console.log("Mamta ko 1st code")
